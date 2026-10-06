@@ -1,0 +1,18 @@
+SONDAMERCADO - IMAGENS
+
+Estrutura:
+imagens/
+  TEC-PREM-001.svg
+  TEC-PREM-002.svg
+  ...
+
+Estes arquivos são PLACEHOLDERS visuais para testar o funcionamento do GitHub Pages e do campo "imagem" no Firestore.
+Eles não são fotos reais dos produtos.
+
+Quando formos colocar as fotos reais, substitua cada arquivo pelo mesmo código, por exemplo:
+TEC-PREM-001.jpg
+
+Para o site, a URL seguirá este padrão:
+https://kaicolassh.github.io/meu-sistema/imagens/TEC-PREM-001.jpg
+
+Não crie o campo "imagem" no Firestore ainda. Primeiro envie a pasta para o GitHub e teste.
