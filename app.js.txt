@@ -1,0 +1,35 @@
+import { initializeApp } from
+    "https://www.gstatic.com/firebasejs/12.19.0/firebase-app.js";
+
+import {
+    getFirestore,
+    collection,
+    addDoc,
+    getDocs,
+    doc,
+    updateDoc,
+    deleteDoc
+} from
+    "https://www.gstatic.com/firebasejs/12.19.0/firebase-firestore.js";
+
+
+// CONFIGURAÇÃO DO FIREBASE
+const firebaseConfig = {
+    apiKey: "AIzaSyAZgXnE45R1ihDrhRWS7BnWZi3l5vfIUNU",
+    authDomain: "gabriel-e-kaique.firebaseapp.com",
+    projectId: "gabriel-e-kaique",
+    storageBucket: "gabriel-e-kaique.firebasestorage.app",
+    messagingSenderId: "103123728412",
+    appId: "1:103123728412:web:d58db26fc55217327087d9"
+};
+
+
+// INICIAR FIREBASE
+const app = initializeApp(firebaseConfig);
+
+
+// CONECTAR AO FIRESTORE
+const db = getFirestore(app);
+
+
+console.log("Firebase conectado!");
