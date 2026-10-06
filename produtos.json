@@ -1,0 +1,86 @@
+[
+  {
+    "codigo": "TEC-PREM-001",
+    "nome": "Mouse Logitech G Pro X Superlight 2",
+    "categoria": "Periféricos Premium",
+    "preco": 1399.0,
+    "estoque": 36
+  },
+  {
+    "codigo": "TEC-PREM-002",
+    "nome": "Mouse Razer DeathAdder V3 Pro",
+    "categoria": "Periféricos Premium",
+    "preco": 1249.0,
+    "estoque": 44
+  },
+  {
+    "codigo": "TEC-PREM-003",
+    "nome": "Mouse ASUS ROG Harpe Ace Aim Lab",
+    "categoria": "Periféricos Premium",
+    "preco": 1150.0,
+    "estoque": 45
+  },
+  {
+    "codigo": "TEC-PREM-011",
+    "nome": "Teclado Mecânico Custom Keychron Q1 Pro",
+    "categoria": "Periféricos Premium",
+    "preco": 1699.0,
+    "estoque": 36
+  },
+  {
+    "codigo": "TEC-PREM-012",
+    "nome": "Teclado Mecânico Razer Huntsman V3 Pro TKL",
+    "categoria": "Periféricos Premium",
+    "preco": 1899.0,
+    "estoque": 25
+  },
+  {
+    "codigo": "TEC-PREM-016",
+    "nome": "Teclado Mecânico Analógico Wooting 60HE",
+    "categoria": "Periféricos Premium",
+    "preco": 2199.0,
+    "estoque": 12
+  },
+  {
+    "codigo": "TEC-PREM-021",
+    "nome": "Gabinete Lian Li O11 Dynamic EVO XL",
+    "categoria": "Gabinetes High-End",
+    "preco": 1899.0,
+    "estoque": 28
+  },
+  {
+    "codigo": "TEC-PREM-026",
+    "nome": "Gabinete Fractal Design North (Wood Front)",
+    "categoria": "Gabinetes High-End",
+    "preco": 1299.0,
+    "estoque": 23
+  },
+  {
+    "codigo": "TEC-PREM-030",
+    "nome": "Gabinete Hyte Y70 Touch (Com Tela)",
+    "categoria": "Gabinetes High-End",
+    "preco": 2999.0,
+    "estoque": 9
+  },
+  {
+    "codigo": "TEC-PREM-031",
+    "nome": "GPU NVIDIA RTX 4090 24GB ASUS ROG Strix",
+    "categoria": "Hardware / GPU",
+    "preco": 15499.0,
+    "estoque": 14
+  },
+  {
+    "codigo": "TEC-PREM-032",
+    "nome": "GPU NVIDIA RTX 4080 Super 16GB MSI Gaming X",
+    "categoria": "Hardware / GPU",
+    "preco": 8499.0,
+    "estoque": 18
+  },
+  {
+    "codigo": "TEC-PREM-035",
+    "nome": "GPU AMD Radeon RX 7900 XTX 24GB PowerColor",
+    "categoria": "Hardware / GPU",
+    "preco": 7999.0,
+    "estoque": 11
+  }
+]
